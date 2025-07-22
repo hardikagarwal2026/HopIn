@@ -165,9 +165,5 @@
   3. Real-time Map + Pins
   4. Ride Matching + Notifications
   5. Realtime Chat + Ratings
-- Collaborate using Git + GitHub.
-- Keep commits small with clear messages (e.g., "feat: ride request form").
-- Use TODOs to leave future tasks.
 
-You've got this. Build one layer at a time, test often, ship proud 🚀
 
